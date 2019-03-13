@@ -4,7 +4,9 @@
   "private": true,
   "dependencies": {
     "react": "^16.8.4",
+    "react-addons-update": "^15.6.2",
     "react-dom": "^16.8.4",
+    "react-moving-line": "../react-moving-line/dist/lib",
     "react-scripts": "2.1.8"
   },
   "scripts": {
